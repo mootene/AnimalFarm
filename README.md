@@ -7,3 +7,6 @@ Interface Animal contains methods animalSound(), sleep(), getName(), getAge(), d
 Farm utilizes member toString() methods to print out information of instances myPig and myPiglet to terminal. 
 
 video submission found here: https://youtu.be/Qv_Zac4z16Y
+
+Screencast software: QuickTime Player version 10.5
+IDE: VSCode 1.38.0
