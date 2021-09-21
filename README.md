@@ -8,5 +8,5 @@ Farm utilizes member toString() methods to print out information of instances my
 
 video submission found here: https://youtu.be/Qv_Zac4z16Y
 
-Screencast software: QuickTime Player version 10.5
+Screencast software: QuickTime Player version 10.5 <br/>
 IDE: VSCode 1.38.0
